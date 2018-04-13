@@ -1,5 +1,9 @@
+# EMSD机电工程署（Electrical & Mechanical Services Department） 
+> Building Information Modelling for Asset Management (BIM-AM) Standards and Guidelines  
+Version 1.0  
+Nov 2017
 
-# 目录  
+## 目录  
 1. 简介   
   1.1 概述和目标  
   1.2 建造BIM模型的切换程序  
@@ -77,7 +81,7 @@
 
 
 
-# Contents
+## Contents
 1. Introduction  
   1.1 Overview and Objectives  
   1.2 Handover Procedure of As-built BIM Model  
