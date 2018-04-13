@@ -56,13 +56,23 @@
     4.2.18 Lighting  
     4.2.19 Electrical Distribution  
   4.3 Asset Information Requirement  
-
-
-
-
-
-
-
+  4.4 COBie  
+    4.4.1 Introduction of COBie  
+    4.4.2 EMSD COBie  
+    4.4.3 COBie for EMSD MEP attributes  
+    4.4.4 COBie Revit Add-in  
+5. Interfacing/Integrating BIM-AM System with other systems  
+  5.1 Interfacing with Building Management System (BMS) / Central Control and Monitoring System (CCMS) / Real Time Location System (RTLS) / Internet-of-Things (IoT) devices / Long Range Radio (LoRA) network  
+  5.2 Integrating Mobile BIM-AM System with RFID Reader  
+    5.2.1 RFID Readers  
+    5.2.2 Passive RFID Tags  
+  5.3 Interfacing with CCTV system/camera  
+  
+Appendix A - Building Code  
+Appendix B – Asset Information Requirement  
+Appendix C – COBie Extension for Revit 
+ 
+----
 
 
 
@@ -124,3 +134,18 @@
     4.2.18 灯光  
     4.2.19 配电  
   4.3 资产信息要求  
+  4.4 COBie  
+    4.4.1 COBie介绍  
+    4.4.2 EMSD COBie  
+    4.4.3 EMSD MEP的COBie属性  
+    4.4.4 COBie Revit插件  
+5. BIM-AM系统与其他系统的交互  
+  5.1 建筑管理系统（BMS）/中央控制和监视系统（CCMS）/实时定位系统（RTLS）/物联网（IoT）设备/远程无线电（LoRA）网络的界面  
+  5.2 将移动BIM-AM系统与RFID阅读器集成  
+    5.2.1 RFID阅读器  
+    5.2.2 无源RFID标签  
+  5.3 与CCTV系统/相机连接  
+  
+附录A - 建筑规范  
+附录B - 资产信息要求  
+附录C - Revit的COBie扩展 
